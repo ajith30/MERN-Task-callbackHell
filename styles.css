@@ -1,0 +1,13 @@
+.show {
+  text-align: center;
+  margin: 50px 50px;
+  font-weight: bold;
+  font-size: 80px;
+}
+
+body {
+  background-image: url(https://images.pexels.com/photos/2310713/pexels-photo-2310713.jpeg?auto=compress&cs=tinysrgb&w=600);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
